@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller output
+*.spec
+*.exe
+
+# Test cache
+.pytest_cache/
+
+# Runtime artefacts
+keystore/private/*.pem
+keystore/public/*.pem
+signed*.json
+*.log
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
