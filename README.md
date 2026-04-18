@@ -46,13 +46,13 @@ Cách nhanh chóng nhất để trải nghiệm ứng dụng mà không cần ki
 3. Nếu Windows Defender cảnh báo (vì phần mềm chưa có chứng chỉ thương mại), hãy bấm **More info → Run anyway**.
 
 ### Luồng Ký số (Người Gửi)
-*![Giao diện Tab Ký tin nhắn](demo_data/placeholder_sign.png)*
+*![image](https://github.com/Hoangisme-ut/ATTT/blob/bd9093fca625023359fba8d93f8ce37ee4b1a3f7/11.png))*
 1. Tại tab **Ký tin nhắn**, điền tên người dùng (VD: `nguoi_gui`) và bấm **Tạo khóa** (nếu chưa có).
 2. Nhập văn bản cần ký vào ô nội dung.
 3. Bấm **Sign và lưu JSON** để bảo mật văn bản vào một file `.json`.
 
 ### Luồng Xác minh (Người Nhận)
-*![Giao diện Tab Xác minh](demo_data/placeholder_verify.png)*
+*![image](https://github.com/Hoangisme-ut/ATTT/blob/bd9093fca625023359fba8d93f8ce37ee4b1a3f7/12.png))*
 1. Tại tab **Xác minh**, bấm **Chọn file** để mở gói `.json` vừa nhận.
 2. Bấm **Chọn key** để chọn khóa công khai (`.pem`) của người gửi.
 3. Bấm **Verify**.
